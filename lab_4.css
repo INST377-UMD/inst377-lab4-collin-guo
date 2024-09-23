@@ -1,0 +1,26 @@
+body {
+    background-color: blue;
+}
+
+.forms {
+    float: left;
+    width: 40%;
+}
+
+.buttons {
+    float: left;
+    width: 40%;
+}
+
+form, .button1, .button2 {
+    color: white;
+    text-align: center;
+    background-color: purple;
+    padding: 15px;
+    border: 1px solid white;
+    margin: 15px;
+    border-radius: 5px;
+}
+
+
+
